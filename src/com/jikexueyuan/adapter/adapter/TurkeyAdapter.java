@@ -1,4 +1,4 @@
-package com.jikexueyuan.adapter;
+package com.jikexueyuan.adapter.adapter;
 
 import com.jikexueyuan.adapter.duck.Duck;
 import com.jikexueyuan.adapter.turkey.Turkey;
